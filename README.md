@@ -49,8 +49,6 @@ Dùng trực tuyến ngay trên trình duyệt qua nút **“Mở bản Web đ�
 ## 4. Tài khoản, ví & bảo mật
 
 - **Đăng nhập linh hoạt:** email/mật khẩu, Google, Face ID / mã khoá.
-- **Xác thực 2 bước:** mã xác thực ngẫu nhiên hoặc mã số do quản trị tự đặt, kết hợp kiểm tra chống robot (kéo mảnh ghép).
-- **Mã khoá (License Key):** quản lý theo gói và số thiết bị; mỗi điện thoại hoặc máy Windows chiếm một chỗ trong danh sách “Thiết bị”.
 - **Ví & nạp tiền:** nạp qua VietQR, tự cập nhật khi quản trị duyệt.
 - **Bảo mật file làm việc:** mật khẩu bảo vệ theo từng file làm việc.
 
@@ -77,8 +75,6 @@ Dùng trực tuyến ngay trên trình duyệt qua nút **“Mở bản Web đ�
 ## 7. Thành phần kỹ thuật
 
 | Thành phần | Vai trò |
-|---|---|
-| **QLNT Cloud** (plugin WordPress) | Máy chủ mã khoá, đồng bộ dữ liệu, ví, đăng nhập, cửa hàng viền. |
 | **QLNT Web** (theme WordPress) | Trang giới thiệu, trang tài khoản, bản web quản lý nhà trọ. |
 | **QLNT Mobile** (Capacitor) | Ứng dụng Android/iOS dùng chung giao diện và dữ liệu với bản web. |
 | **Phần mềm Windows** | Bản desktop đồng bộ hai chiều với website. |
